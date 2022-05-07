@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NoahTaylor546
+- 👀 I’m interested in coding and website development.
+- 🌱 I’m currently learning html, CSS, JavaScript, and scratch
+- 📫 How to reach me noaht@colbertisd.org
